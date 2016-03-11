@@ -1,0 +1,14 @@
+{
+  "name": "binate-console-logger",
+  "version": "0.0.1",
+  "description": "A console logger supporting only two logging modes. All or northing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "Chris Skudlarczyk <chris.skud@gmail.com> (http://cskud.com)",
+  "license": "ISC"
+}
