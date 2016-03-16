@@ -1,3 +1,5 @@
+'use strict'
+
 module.exports = function Logger (config) {
   config = config || {}
   var debug = config.debug || false

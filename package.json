@@ -1,6 +1,6 @@
 {
   "name": "binate-console-logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A console logger supporting only two logging modes. All or northing.",
   "main": "index.js",
   "scripts": {
